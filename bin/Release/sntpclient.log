@@ -1,0 +1,97 @@
+[2011-05-28 16:33:29] Envoi du paquet client SNTP:	OK.
+[2011-05-28 16:33:29] Reception du paquet reponse SNTP:	OK.
+
+[2011-05-28 16:33:29] Le serveur est synchronise, et est de strate (stratum) 3.
+[2011-05-28 16:33:29] Temps du PC local (client): 28-05-2011 20:33:29.457
+[2011-05-28 16:33:29] Temps du serveur (reponse): 28-05-2011 20:33:29.579
+[2011-05-28 16:33:29] Difference de l'heure entre le PC et le serveur: 0.122000 seconde(s)
+
+==========================================
+[2011-05-28 16:33:29] Impossible de changer l'heure du systeme sans elevation de l'usager
+sur les OS WinXP et plus recents.
+
+Vous devez executer cette commande en tant qu'Administrateur.[2011-05-28 16:36:04] Envoi du paquet client SNTP:	OK.
+[2011-05-28 16:36:04] Reception du paquet reponse SNTP:	OK.
+
+[2011-05-28 16:36:04] Le serveur est synchronise, et est de strate (stratum) 3.
+[2011-05-28 16:36:04] Temps du PC local (client): 28-05-2011 20:36:04.286
+[2011-05-28 16:36:04] Temps du serveur (reponse): 28-05-2011 20:36:04.405
+[2011-05-28 16:36:04] Difference de l'heure entre le PC et le serveur: 0.119000 seconde(s)
+
+==========================================
+[2011-05-28 16:36:04] Impossible de changer l'heure du systeme sans elevation de l'usager
+sur les OS WinXP et plus recents.
+
+Vous devez executer cette commande en tant qu'Administrateur.[2011-05-28 16:36:09] Envoi du paquet client SNTP:	OK.
+[2011-05-28 16:36:09] Reception du paquet reponse SNTP:	OK.
+
+[2011-05-28 16:36:09] Le serveur est synchronise, et est de strate (stratum) 3.
+[2011-05-28 16:36:09] Temps du PC local (client): 28-05-2011 20:36:09.384
+[2011-05-28 16:36:09] Temps du serveur (reponse): 28-05-2011 20:36:09.490
+[2011-05-28 16:36:09] Difference de l'heure entre le PC et le serveur: 0.106000 seconde(s)
+
+==========================================
+[2011-05-28 16:36:09] Impossible de changer l'heure du systeme sans elevation de l'usager
+sur les OS WinXP et plus recents.
+
+Vous devez executer cette commande en tant qu'Administrateur.[2011-05-28 16:36:10] Envoi du paquet client SNTP:	OK.
+[2011-05-28 16:36:10] Reception du paquet reponse SNTP:	OK.
+
+[2011-05-28 16:36:10] Le serveur est synchronise, et est de strate (stratum) 3.
+[2011-05-28 16:36:10] Temps du PC local (client): 28-05-2011 20:36:10.578
+[2011-05-28 16:36:10] Temps du serveur (reponse): 28-05-2011 20:36:10.692
+[2011-05-28 16:36:10] Difference de l'heure entre le PC et le serveur: 0.114000 seconde(s)
+
+==========================================
+[2011-05-28 16:36:10] Impossible de changer l'heure du systeme sans elevation de l'usager
+sur les OS WinXP et plus recents.
+
+Vous devez executer cette commande en tant qu'Administrateur.[2011-05-28 16:56:14] Envoi du paquet client SNTP:	OK.
+[2011-05-28 16:56:14] Reception du paquet reponse SNTP:	OK.
+
+[2011-05-28 16:56:14] Le serveur est synchronise, et est de strate (stratum) 3.
+[2011-05-28 16:56:14] Temps du PC local (client): 28-05-2011 20:56:14.624
+[2011-05-28 16:56:14] Temps du serveur (reponse): 28-05-2011 20:56:14.587
+[2011-05-28 16:56:14] Difference de l'heure entre le PC et le serveur: 0.037000 seconde(s)
+
+[2011-05-28 16:56:14] Impossible de changer l'heure du systeme sans elevation de l'usager
+sur les OS WinXP et plus recents.
+
+Vous devez executer cette commande en tant qu'Administrateur.
+==========================================
+[2011-05-28 17:00:50] Envoi du paquet client SNTP:	OK.
+[2011-05-28 17:00:50] Reception du paquet reponse SNTP:	OK.
+
+[2011-05-28 17:00:50] Le serveur est synchronise, et est de strate (stratum) 3.
+[2011-05-28 17:00:50] Temps du PC local (client): 28-05-2011 21:00:50.462
+[2011-05-28 17:00:50] Temps du serveur (reponse): 28-05-2011 21:00:50.409
+[2011-05-28 17:00:50] Difference de l'heure entre le PC et le serveur: 0.053000 seconde(s)
+
+[2011-05-28 17:00:50] Impossible de changer l'heure du systeme sans elevation de l'usager
+sur les OS WinXP et plus recents.
+
+Vous devez executer cette commande en tant qu'Administrateur.
+==========================================
+[2012-09-13 17:45:14] Sending SNTP client packet:	OK.
+[2012-09-13 17:45:14] Receiving SNTP packet response:	OK.
+[2012-09-13 17:45:14] Server in-sync, stratum 3.
+[2012-09-13 17:45:14] PC local time (client): 13-09-2012 21:45:14.902
+[2012-09-13 17:45:14] Server's time (reponse): 13-09-2012 21:45:00.471
+[2012-09-13 17:45:14] Time difference between client and server: 14.431000 second(s)
+[2012-09-13 17:45:14] Unable to change time without a process right elevation
+on WinXP and above.
+
+You need to run this app as Administrator (or equivalent).
+==========================================
+[2012-09-13 17:46:09] Sending SNTP client packet:	OK.
+[2012-09-13 17:46:09] Receiving SNTP packet response:	OK.
+[2012-09-13 17:46:09] Server in-sync, stratum 3.
+[2012-09-13 17:46:09] PC local time (client): 13-09-2012 21:46:09.313
+[2012-09-13 17:46:09] Server's time (reponse): 13-09-2012 21:45:54.873
+[2012-09-13 17:46:09] Time difference between client and server: 14.440000 second(s)
+[2012-09-13 17:46:09] 
+**** ERROR *** Unable to change time without a process elevation
+on WinXP and above.
+
+You need to run this app as Administrator (or equivalent).
+==========================================

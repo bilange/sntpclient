@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="client.c" open="1" top="0" tabpos="5">
+		<Cursor position="2737" topLine="60" />
+	</File>
+	<File name="errors.c" open="1" top="0" tabpos="3">
+		<Cursor position="1776" topLine="0" />
+	</File>
+	<File name="errors.h" open="1" top="0" tabpos="4">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="2">
+		<Cursor position="437" topLine="7" />
+	</File>
+	<File name="server.c-old" open="0" top="0" tabpos="2">
+		<Cursor position="306" topLine="10" />
+	</File>
+	<File name="sntp.c" open="1" top="1" tabpos="1">
+		<Cursor position="11788" topLine="284" />
+	</File>
+	<File name="sntp.h" open="1" top="0" tabpos="2">
+		<Cursor position="766" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

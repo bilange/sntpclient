@@ -1,0 +1,49 @@
+#include <windows.h>
+//#include <commctrl.h>
+//#include <richedit.h>
+#include "resource.h"
+
+
+// MAIN Program Icon -- laisser en premier pour que
+// Windows utiliser cette icone sur l'executable.
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+IDI_MAIN_ICON ICON ".\\stopwatch.ico"
+
+
+
+//Strings pour les details de l'executable. Voir:
+//http://stackoverflow.com/questions/1022449/how-to-change-an-executables-properties-windows
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION    0,0,0,2
+ PRODUCTVERSION 0,0,0,2
+ FILEFLAGSMASK 0x3fL
+ #ifdef _DEBUG
+ FILEFLAGS 0x1L
+ #else
+ FILEFLAGS 0x0L
+ #endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "040904b0"
+        {
+            VALUE "Comments",         "comment\0"
+            VALUE "CompanyName",      "Eric Belanger\0"
+            VALUE "FileDescription",  "Simple client SNTP\0"
+            VALUE "FileVersion",      "0.0.0.1\0"
+            VALUE "InternalName",     "sntpclient\0"
+            //VALUE "LegalCopyright",   "\0"
+            VALUE "OriginalFilename", "sntpclient.exe\0"
+            VALUE "ProductName",      "Client SNTP\0"
+            VALUE "ProductVersion",   "0.0.0.1\0"
+            VALUE "SpecialBuild",     "Pour utilisation chez Rona L'Entrepot Sherbrooke"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x409, 1200
+    }
+}
